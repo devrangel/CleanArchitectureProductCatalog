@@ -12,3 +12,6 @@ Definição do projeto e ferramentas:
     * Abordagem Code First
 * WebUI
     * ASP.NET Core Web App MVC
+* Unit Testing
+    * xUnit
+    * Fluent Assertions
