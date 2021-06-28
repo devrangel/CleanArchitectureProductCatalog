@@ -10,6 +10,7 @@ Definição do projeto e ferramentas:
     * SQL Server
     * Entity Framework Core
     * Abordagem Code First
+    * Fluent API
 * WebUI
     * ASP.NET Core Web App MVC
 * Unit Testing
